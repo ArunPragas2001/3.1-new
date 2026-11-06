@@ -2,6 +2,7 @@ import React from "react";
 import { Text, Image, View } from "react-native";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import Page from "../components/Page";
+import PlayingGuide from "../components/PlayingGuide";
 import { Button, FamilyBadge } from "../components/UI";
 import instruments from "../data/instruments.json";
 import images from "../data/images";
@@ -95,6 +96,7 @@ export default function DetailsScreen({ route, navigation }) {
           ))}
         </View>
       </View>
+      <PlayingGuide guide={item.playingGuide} />
       <Button
         secondary
         label={"Explore the " + item.family.toLowerCase() + " family"}

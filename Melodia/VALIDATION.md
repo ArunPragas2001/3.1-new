@@ -1,3 +1,21 @@
+# Version 1.2 validation — 6 November 2026
+
+Passed for the instrument learning update:
+- npm run check validates the 12 instrument IDs, local images, setups, four or more method steps, exercise fields/steps, unique spoken scripts, tips, four family counts and eight quiz questions.
+- Production web and Android JavaScript/assets exports.
+- Browser: searched for and opened each of the 12 instruments, then checked its own setup, every playing step, practice title/pattern/legend, demonstration and tip on Details.
+- Method, practice and script screenshots reviewed at phone width. Long text wraps and pattern columns use a horizontally scrollable monospace block. A 320px-wide details view has no document overflow.
+- Saved a favourite after reading a long guide, reloaded to confirm persistence and removed it from Favourites.
+- No browser runtime exceptions during the instrument-guide flows.
+
+No changes were made to the library storage key/schema, quiz questions or image files. The guides are text learning content; no audio playback or network calls were added.
+
+Not performed: review by a qualified instrument teacher, physical Android/iOS testing, APK compilation or a fresh airplane-mode launch of an installed standalone build. The written examples state their instrument assumptions and are introductory exercises. Follow TESTING.md on a device before submission. Screenshots are from the browser build.
+
+Project-title registration and final coursework submission remain your responsibility.
+
+---
+
 # Version 1.1 validation — 6 November 2026
 
 Passed:

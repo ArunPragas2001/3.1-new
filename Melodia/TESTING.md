@@ -21,3 +21,12 @@ Exports validate JavaScript and assets, not an installed APK. Native device test
 - Scroll to Next on a small screen. The next question and final result should start at the top.
 - Expand and collapse image credits on Profile.
 - Update an existing installation without clearing its data; previous favourites and saved quiz results should still appear.
+
+## Version 1.2 learning content
+
+- Run npm run check: all 12 records must contain setup, four method steps, a practice pattern with explanations and steps, a unique demonstration script and a tip.
+- Open every instrument. Scroll to How to play and check that its setup, method, practice and demonstration belong to that instrument.
+- Check long patterns at a small screen width. They can scroll horizontally without widening the whole page; method and script paragraphs should wrap normally.
+- Try selecting/copying the pattern or demonstration text.
+- Save and remove a favourite while viewing a long guide. Confirm the control remains reachable and the result persists after relaunch.
+- Follow the stated instrument setup when trying a practice exercise; e.g. the accordion exercise assumes a piano accordion, and saxophone/trumpet note names are written notes.

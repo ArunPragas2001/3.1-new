@@ -5,7 +5,43 @@
     "family": "Strings",
     "origin": "Spain; the modern classical design developed in the 19th century.",
     "description": "Players pluck or strum the strings. Pressing a string at a fret changes its vibrating length and pitch.",
-    "components": ["Strings", "Body", "Neck", "Frets", "Tuning pegs"]
+    "components": ["Strings", "Body", "Neck", "Frets", "Tuning pegs"],
+    "playingGuide": {
+      "setup": "Use a standard six-string guitar. From the thickest, lowest string to the thinnest, highest string, standard tuning is E–A–D–G–B–E. Have the instrument tuned before starting. The hand directions below describe a right-handed setup.",
+      "method": [
+        {
+          "title": "Find a comfortable position",
+          "instruction": "Sit upright with the guitar supported on your leg. Keep the neck slightly raised and your shoulders relaxed. Support the instrument rather than squeezing the neck."
+        },
+        {
+          "title": "Make a clear sound",
+          "instruction": "Use a right-hand fingertip or a pick to pluck one string. Let the string vibrate freely. Start with gentle strokes and listen for an even tone."
+        },
+        {
+          "title": "Change the pitch",
+          "instruction": "With a left-hand fingertip, press a string just behind a fret. Keep the finger clear of neighbouring strings. Pluck again and compare this note with the open string."
+        },
+        {
+          "title": "Add a steady pulse",
+          "instruction": "Count 1–2–3–4 slowly. Play one note or one gentle downward strum on each count. Keep your wrist loose and let the sound ring between strokes."
+        }
+      ],
+      "practice": {
+        "title": "Four open-string notes",
+        "tempo": "About 60 beats per minute: one count per second.",
+        "pattern": "Count:   1   2   3   4\nString:  1   2   3   2\nNote:    E   B   G   B",
+        "legend": "String 1 is the thinnest string. Every note is open: do not press any frets. E, B and G here are the pitches of strings 1, 2 and 3.",
+        "steps": [
+          "Count four beats aloud before playing.",
+          "Pluck strings 1, 2, 3 and 2 in that order, one string on each beat.",
+          "Rest for four beats, then repeat the pattern four times.",
+          "Try the same pattern more softly while keeping the timing even."
+        ],
+        "goal": "Four clearly separated notes with no accidental contact on the next string."
+      },
+      "demonstration": "This is a six-string guitar. I will play the open E, B, G and B strings, one note on each count: one, two, three, four. I will leave a four-count rest and repeat the pattern more softly. Pressing a string behind a fret would change its pitch; plucking harder mainly changes its volume.",
+      "tip": "If a fretted note buzzes, check that your fingertip is close behind the fret before pressing harder. Keep your thumb relaxed."
+    }
   },
   {
     "id": "violin",
@@ -13,7 +49,43 @@
     "family": "Strings",
     "origin": "Northern Italy, early 16th century.",
     "description": "The violin has four strings. A bow makes them vibrate, and its wooden body helps the sound resonate.",
-    "components": ["Strings", "Bow", "Bridge", "Fingerboard", "Body"]
+    "components": ["Strings", "Bow", "Bridge", "Fingerboard", "Body"],
+    "playingGuide": {
+      "setup": "Use a violin and bow of a suitable size, with a fitted shoulder support if needed. The open strings, from lowest to highest, are G–D–A–E. Ask a teacher to check the tuning and show you a relaxed bow hold.",
+      "method": [
+        {
+          "title": "Support the violin",
+          "instruction": "Rest the violin on the left shoulder area and bring your head gently to the chin rest. Keep your left hand free to guide the neck rather than gripping it tightly."
+        },
+        {
+          "title": "Place the bow",
+          "instruction": "Set the bow hair on the D string between the bridge and fingerboard. Aim to keep the bow roughly parallel to the bridge, using a comfortable middle section of the bow."
+        },
+        {
+          "title": "Draw an even stroke",
+          "instruction": "Move the right arm smoothly to make the string vibrate. Use light, steady contact. Change direction without lifting the bow unnecessarily or pushing down hard."
+        },
+        {
+          "title": "Explore different notes",
+          "instruction": "For an open string, keep the left fingers off the fingerboard. Later, placing fingertips on the string shortens its vibrating length and raises the pitch. Practise one open string before changing strings."
+        }
+      ],
+      "practice": {
+        "title": "An open-string bow pattern",
+        "tempo": "About 60 beats per minute, using one short bow stroke per beat.",
+        "pattern": "Count:  1      2      3      4\nNote:   D      D      D      D\nBow:    Down   Up     Down   Up",
+        "legend": "D means the open D string. Down-bow moves from the frog toward the tip; up-bow moves back toward the frog. Use only a small, comfortable part of that distance.",
+        "steps": [
+          "Count four steady beats without playing.",
+          "Play four short D-string strokes, alternating down and up.",
+          "Rest for four beats. Repeat the four strokes on the open A string.",
+          "Repeat this D-string bar and A-string bar twice, with a rest between bars."
+        ],
+        "goal": "An even sound from one string at a time, without brushing a neighbouring string."
+      },
+      "demonstration": "This is a violin. I will begin on the open D string, so my left-hand fingers will not stop the string. Listen as I play down, up, down, up with four short bow strokes. After a rest, I will repeat on the A string. The bow makes the strings vibrate, and the wooden body helps the sound resonate.",
+      "tip": "A scratchy sound is often a bow-contact or movement issue. Try a smoother stroke and lighter pressure rather than squeezing the instrument."
+    }
   },
   {
     "id": "cello",
@@ -21,7 +93,43 @@
     "family": "Strings",
     "origin": "Italy, 16th century.",
     "description": "The cello is a large bowed string instrument. A seated player supports it on an endpin.",
-    "components": ["Strings", "Bow", "Bridge", "Endpin", "Body"]
+    "components": ["Strings", "Bow", "Bridge", "Endpin", "Body"],
+    "playingGuide": {
+      "setup": "Sit on a stable chair with the cello between your knees. Set the endpin securely and adjust it so the instrument meets your body comfortably. The open strings, from lowest to highest, are C–G–D–A.",
+      "method": [
+        {
+          "title": "Balance the instrument",
+          "instruction": "Keep both feet supported and your back comfortably upright. Let the cello rest against your body and legs, with the neck beside your left shoulder."
+        },
+        {
+          "title": "Set the bow on a string",
+          "instruction": "Hold the bow with a relaxed right hand. Place its hair on the open D string between the bridge and fingerboard, roughly parallel to the bridge."
+        },
+        {
+          "title": "Sustain a clear tone",
+          "instruction": "Draw the bow steadily for a short, controlled stroke. Listen for an even tone from beginning to end rather than using a sudden heavy push."
+        },
+        {
+          "title": "Move between notes",
+          "instruction": "Change the angle of the bow to reach the A string without scraping across several strings. Later, left-hand fingertips stop a string to change its pitch; open-string practice needs no stopping fingers."
+        }
+      ],
+      "practice": {
+        "title": "Two sustained open strings",
+        "tempo": "About 60 beats per minute. Hold each note for two counts.",
+        "pattern": "Count:  1 — 2     3 — 4\nNote:   D         A",
+        "legend": "D and A mean the cello’s open D and A strings. The dash means continue the same note, not another attack.",
+        "steps": [
+          "Play the open D string for counts 1 and 2 with one smooth stroke.",
+          "Change to the open A string for counts 3 and 4, using the next bow stroke.",
+          "Rest for a full four-count bar.",
+          "Repeat four times, keeping both notes similar in volume."
+        ],
+        "goal": "Two smooth, two-count tones with a controlled string change."
+      },
+      "demonstration": "This is a cello. I play it while seated, with the endpin supporting it on the floor. I will hold the open D string for counts one and two, then the open A string for counts three and four. Listen for the change in pitch while I keep the volume even. My bow sets the strings vibrating, just as it does on a violin.",
+      "tip": "Let the endpin and your balanced posture support the cello. Gripping the neck tightly makes relaxed left-hand movement more difficult."
+    }
   },
   {
     "id": "flute",
@@ -29,7 +137,43 @@
     "family": "Wind",
     "origin": "Ancient flutes occur in many cultures; the modern concert flute developed in Europe.",
     "description": "Air blown across an opening creates sound. Keys change the effective length of the air column.",
-    "components": ["Headjoint", "Mouth hole", "Keys", "Body", "Footjoint"]
+    "components": ["Headjoint", "Mouth hole", "Keys", "Body", "Footjoint"],
+    "playingGuide": {
+      "setup": "This guide is for the Western concert flute. Begin with the headjoint alone and a teacher’s help with its position. This first exercise explores tone, not a named musical pitch.",
+      "method": [
+        {
+          "title": "Position the headjoint",
+          "instruction": "Bring the embouchure hole to the edge of your lower lip. Keep your head comfortably upright and let the headjoint rest lightly against the lip."
+        },
+        {
+          "title": "Direct the air",
+          "instruction": "Form a small opening between the lips and send a gentle stream of air across the far edge of the hole. The air crosses the opening rather than being blown straight down into it."
+        },
+        {
+          "title": "Start and stop a tone",
+          "instruction": "Think of a gentle “too” to begin the sound. Keep the airflow steady for a short tone, then stop cleanly and take a relaxed breath during the rest."
+        },
+        {
+          "title": "Add the body and keys",
+          "instruction": "Once you can make a steady headjoint tone, assemble the flute with guidance. Cover the intended key openings fully and use a fingering chart for the first notes. Changing key combinations changes the air column’s effective length."
+        }
+      ],
+      "practice": {
+        "title": "Two counts of tone, two counts of rest",
+        "tempo": "Count slowly at about 60 beats per minute.",
+        "pattern": "Count:   1 — 2     3 — 4\nAction:  Tone      Rest",
+        "legend": "Use the headjoint alone. “Tone” is any comfortable, steady sound; this exercise does not require C, D or another named note.",
+        "steps": [
+          "Count a bar of four beats, leaving time to breathe.",
+          "Make a gentle headjoint tone for counts 1 and 2.",
+          "Stop for counts 3 and 4 and take an easy breath.",
+          "Repeat four times. Adjust the air direction slightly if needed, keeping the effort gentle."
+        ],
+        "goal": "A short, repeatable tone with a clean start and a comfortable rest."
+      },
+      "demonstration": "This is the headjoint of a concert flute. I will blow across its opening to make a short tone. I will play for counts one and two, then rest for counts three and four. When the full flute is assembled, its keys change the effective length of the air column and allow different notes. For this demonstration, I am concentrating only on an even tone.",
+      "tip": "If no tone appears, try a small adjustment to the air angle or lip opening. Blowing much harder is not a substitute for finding the edge of the sound."
+    }
   },
   {
     "id": "trumpet",
@@ -37,7 +181,43 @@
     "family": "Wind",
     "origin": "Ancient ceremonial horns; modern valved designs developed in 19th-century Europe.",
     "description": "Vibrating lips produce sound. Valves change the length of tubing to help select notes.",
-    "components": ["Mouthpiece", "Valves", "Tubing", "Bell"]
+    "components": ["Mouthpiece", "Valves", "Tubing", "Bell"],
+    "playingGuide": {
+      "setup": "This is a first-step guide for a standard B-flat trumpet. Its written notes differ from concert pitch. Begin with a comfortable open note; use the optional written-note pattern only after a teacher has helped you locate written C.",
+      "method": [
+        {
+          "title": "Support the trumpet",
+          "instruction": "Support the instrument with the left hand and place the right-hand fingers comfortably over the three valves. Keep the shoulders relaxed and the mouthpiece centred comfortably on the lips."
+        },
+        {
+          "title": "Begin with air and lip vibration",
+          "instruction": "Bring the lips gently together and let a steady breath make them vibrate into the mouthpiece. Avoid trying to create the sound by pressing the mouthpiece harder against the face."
+        },
+        {
+          "title": "Shape the note",
+          "instruction": "Use a gentle “too” to start the tone. Practise a short, steady sound with a relaxed rest afterwards. Air and lip adjustments help select the register."
+        },
+        {
+          "title": "Use valves to change tubing length",
+          "instruction": "Press the valves fully with curved fingertips. Valves change the tubing length, but one fingering can produce several pitches: the lips and airflow also matter."
+        }
+      ],
+      "practice": {
+        "title": "An open tone, then an optional note pattern",
+        "tempo": "About 60 beats per minute. Keep the first attempts short.",
+        "pattern": "First: 2-count tone\nThen:  2-count rest\nLater (one note per count):\nNote:   C   D     E     C\nValves: —   1+3   1+2   —",
+        "legend": "The later pattern uses written C–D–E–C in the beginner register, one note per beat. — means no valves. These fingerings do not select the correct pitch by themselves.",
+        "steps": [
+          "With no valves pressed, play a comfortable open tone for two counts.",
+          "Rest for two counts; repeat this four times with an even sound.",
+          "When written C is established with a teacher, try the later C–D–E–C pattern slowly.",
+          "Leave a four-count rest between attempts. Return to the single-tone exercise if the pitches are not secure."
+        ],
+        "goal": "A relaxed, repeatable tone; later, clear valve changes without losing the steady pulse."
+      },
+      "demonstration": "This is a trumpet. My vibrating lips start the sound, and the valves change the length of the tubing. First I will play one comfortable open note for two counts and rest for two counts. Once I can reliably find written C, I can try C, D, E and C with the shown valve combinations. The same valve combination can make different notes, so I must listen to the pitch as well as move my fingers.",
+      "tip": "Use a steady breath and light mouthpiece contact. If a note changes register unexpectedly, return to a comfortable tone rather than pressing harder."
+    }
   },
   {
     "id": "saxophone",
@@ -45,7 +225,43 @@
     "family": "Wind",
     "origin": "Developed by Adolphe Sax in the 1840s.",
     "description": "A single reed vibrates when air passes through the mouthpiece. It is a woodwind instrument despite its metal body.",
-    "components": ["Reed", "Mouthpiece", "Neck", "Keys", "Bell"]
+    "components": ["Reed", "Mouthpiece", "Neck", "Keys", "Bell"],
+    "playingGuide": {
+      "setup": "Use an alto or tenor saxophone with a suitable beginner reed and a correctly adjusted neck strap. The note names below are written notes, not concert pitches. Ask a teacher to check the reed and mouthpiece setup.",
+      "method": [
+        {
+          "title": "Prepare the reed and support",
+          "instruction": "Moisten the reed as instructed and secure it flat against the mouthpiece table with the tip properly aligned. Adjust the neck strap so the mouthpiece comes to you without pulling your head forward."
+        },
+        {
+          "title": "Form a relaxed embouchure",
+          "instruction": "Place the upper teeth gently on the mouthpiece and cushion the reed with the lower lip. Close the corners of the mouth around the mouthpiece without biting the reed shut."
+        },
+        {
+          "title": "Make a steady tone",
+          "instruction": "Blow a supported, even stream of air. Start gently with “too” and keep the jaw stable. Let the neck strap carry the weight instead of squeezing the keys."
+        },
+        {
+          "title": "Finger the first notes",
+          "instruction": "For written B, close the left-hand index main key; for A, add the middle finger; for G, add the ring finger. Leave the octave key off for this first pattern. Use a fingering chart to confirm the main keys on your model."
+        }
+      ],
+      "practice": {
+        "title": "Three written notes",
+        "tempo": "About 60 beats per minute. Play one note on each count.",
+        "pattern": "Count:  1   2   3   4\nNote:   B   A   G   A",
+        "legend": "These are written notes on alto or tenor saxophone. Left-hand main fingers: B = index; A = index + middle; G = index + middle + ring. No octave key.",
+        "steps": [
+          "Play a comfortable written B with the left index main key closed.",
+          "Count four beats and play B–A–G–A, adding or lifting fingers close to the keys.",
+          "Rest for four beats and check that the reed and jaw remain relaxed.",
+          "Repeat four times, aiming for similar volume on all notes."
+        ],
+        "goal": "Four clear notes with quiet finger movement and no sudden squeaks."
+      },
+      "demonstration": "This is a saxophone. A single reed vibrates against the mouthpiece, so it belongs to the woodwind group even though its body is metal. I will play the written notes B, A, G and A, one on each count. My left-hand fingers change the note while I keep the air steady. On different sizes of saxophone, these written notes can sound at different concert pitches.",
+      "tip": "Keep the fingers close to the keys and check that they close fully. Biting harder can stop the reed from vibrating freely."
+    }
   },
   {
     "id": "drums",
@@ -53,7 +269,43 @@
     "family": "Percussion",
     "origin": "United States, late 19th and early 20th centuries.",
     "description": "A drum kit combines drums and cymbals. Sticks and pedals let one musician create layered rhythms.",
-    "components": ["Bass drum", "Snare drum", "Toms", "Hi-hat", "Cymbals"]
+    "components": ["Bass drum", "Snare drum", "Toms", "Hi-hat", "Cymbals"],
+    "playingGuide": {
+      "setup": "Start with a basic drum kit and closed hi-hat. The limb directions describe a common right-handed arrangement; a left-handed setup can be mirrored. Adjust the stool so you can reach the pedals without leaning.",
+      "method": [
+        {
+          "title": "Find a balanced seat",
+          "instruction": "Sit upright with the feet resting comfortably on the pedals. Keep the snare and hi-hat within easy reach and the shoulders loose."
+        },
+        {
+          "title": "Let the sticks rebound",
+          "instruction": "Hold each stick with a light, controlled grip. Use small wrist movements and let the stick bounce back after each stroke instead of pushing it into the drumhead."
+        },
+        {
+          "title": "Separate the jobs",
+          "instruction": "Use the right hand for steady closed hi-hat beats, the left hand for snare beats and the right foot for the bass drum. Practise each part alone first."
+        },
+        {
+          "title": "Combine a simple groove",
+          "instruction": "Keep counting 1–2–3–4. Add the snare on 2 and 4, then the bass drum on 1 and 3, while the hi-hat continues on every count."
+        }
+      ],
+      "practice": {
+        "title": "A four-beat beginner groove",
+        "tempo": "About 60 beats per minute. Each column is one beat.",
+        "pattern": "Count:    1   2   3   4\nHi-hat:   H   H   H   H\nSnare:    —   S   —   S\nBass:     K   —   K   —",
+        "legend": "H = closed hi-hat, S = snare drum, K = bass drum pedal, — = no hit. Sounds in the same column happen together.",
+        "steps": [
+          "Play only the closed hi-hat on 1, 2, 3 and 4 for four bars.",
+          "Keep that pulse and add the snare on beats 2 and 4.",
+          "Add the bass drum on beats 1 and 3. Start again slowly if a part drops out.",
+          "Repeat the complete four-beat groove for four bars, then stop together after the final beat."
+        ],
+        "goal": "A steady pulse with the correct sounds lining up on the same beat."
+      },
+      "demonstration": "This is a drum kit. I will begin with four steady hi-hat beats: one, two, three, four. Next I will add the snare on two and four, then the bass drum on one and three. Hits in the same column of the pattern happen at the same time. This coordination pattern creates a simple groove that one musician can play across several percussion instruments.",
+      "tip": "Slow the pattern down before adding a new limb. Light, even strokes are more useful for this exercise than playing loudly."
+    }
   },
   {
     "id": "tabla",
@@ -61,7 +313,43 @@
     "family": "Percussion",
     "origin": "Indian subcontinent; its precise historical development is debated.",
     "description": "Tabla are two hand drums. Players use fingers and palms to produce many tones.",
-    "components": ["Dayan", "Bayan", "Drumheads", "Tuning straps"]
+    "components": ["Dayan", "Bayan", "Drumheads", "Tuning straps"],
+    "playingGuide": {
+      "setup": "Sit comfortably with the smaller wooden dayan and larger bayan on stable support rings. In a common right-handed arrangement, the dayan is on the right. Learn the named strokes, or bols, from a teacher; their detailed technique can vary by tradition.",
+      "method": [
+        {
+          "title": "Set a relaxed playing position",
+          "instruction": "Place the pair within easy reach and keep the shoulders and wrists relaxed. Rest the hands lightly rather than leaning body weight onto the heads."
+        },
+        {
+          "title": "Explore the dayan",
+          "instruction": "Use controlled fingertip strokes on the smaller drum. A teacher can show the contact point and damping for a clear Na, rather than treating any tap as the same sound."
+        },
+        {
+          "title": "Explore the bayan",
+          "instruction": "Use the left-hand fingers to make a rounded bass stroke such as Ge, as demonstrated by your teacher. Gentle changes of hand position and pressure can bend the bass tone."
+        },
+        {
+          "title": "Connect sound and syllable",
+          "instruction": "Say a short bol pattern aloud first. Then play the corresponding strokes slowly, keeping a clear difference between the right-drum and left-drum sounds."
+        }
+      ],
+      "practice": {
+        "title": "Two learned bols in four counts",
+        "tempo": "About 50–60 beats per minute. Say the pattern before playing.",
+        "pattern": "Count:  1    2    3    4\nBol:    Na   Ge   Na   Ge\nHand:   R    L    R    L",
+        "legend": "R/L describe the common right-handed arrangement. Use the Na and Ge strokes your teacher has demonstrated. This is a coordination exercise, not a complete tabla composition or tala lesson.",
+        "steps": [
+          "Say “Na, Ge, Na, Ge” evenly while counting four beats.",
+          "Practise the taught Na stroke by itself, then the taught Ge stroke.",
+          "Alternate the two strokes, one on each count, without speeding up.",
+          "Rest for four counts and repeat four times. Listen for two distinct tones."
+        ],
+        "goal": "Clear alternation of two learned sounds while keeping the spoken and played pattern aligned."
+      },
+      "demonstration": "These two drums are called tabla. The smaller dayan and larger bayan produce different kinds of tone. I will say the bols Na, Ge, Na, Ge, then play the strokes I have learned, one on each count. This short exercise practises coordination; it is not a full tala or composition. The exact touch and sound of each bol need to be learned in a teaching tradition.",
+      "tip": "Keep the hands light and the two sounds distinct. A correct bol depends on contact point, touch and damping, not just the name spoken over an arbitrary tap."
+    }
   },
   {
     "id": "xylophone",
@@ -69,7 +357,43 @@
     "family": "Percussion",
     "origin": "Historical forms developed in parts of Africa and Asia.",
     "description": "Mallets strike tuned wooden bars. Shorter bars generally produce higher notes.",
-    "components": ["Wooden bars", "Mallets", "Frame", "Resonators"]
+    "components": ["Wooden bars", "Mallets", "Frame", "Resonators"],
+    "playingGuide": {
+      "setup": "Use a wooden-bar xylophone and mallets recommended for that instrument. Begin with labelled C, D and E bars; if the bars are unlabelled, have a teacher identify them. Other regional layouts may differ from the keyboard-style layout used here.",
+      "method": [
+        {
+          "title": "Stand or sit at a comfortable height",
+          "instruction": "Face the bars with relaxed shoulders. Position yourself so both hands can reach the chosen notes without stretching or leaning over the frame."
+        },
+        {
+          "title": "Hold the mallets lightly",
+          "instruction": "Hold one mallet in each hand with a relaxed grip. Leave room for the wrists to move and for the mallet heads to rebound after striking."
+        },
+        {
+          "title": "Strike and lift",
+          "instruction": "Aim near the middle of the selected bar for a clear basic tone. Let the mallet bounce away immediately; resting it on the bar damps the vibration."
+        },
+        {
+          "title": "Alternate between notes",
+          "instruction": "Move to the next bar with small, controlled motions. Alternate right and left hands slowly before increasing speed. Higher notes usually lie on shorter bars."
+        }
+      ],
+      "practice": {
+        "title": "A four-note wooden-bar pattern",
+        "tempo": "About 60 beats per minute, with one strike on each beat.",
+        "pattern": "Count:  1   2   3   4\nNote:   C   D   E   D\nHand:   R   L   R   L",
+        "legend": "R = right mallet, L = left mallet. Use the identified C, D and E bars, and let every mallet rebound.",
+        "steps": [
+          "Locate C, D and E before counting in.",
+          "Play C–D–E–D, alternating right, left, right and left.",
+          "Rest for four beats, then repeat the pattern four times.",
+          "Repeat once more with lighter strokes and listen for each bar ringing freely."
+        ],
+        "goal": "Accurate strikes on the intended bars with a free rebound and an even pulse."
+      },
+      "demonstration": "This is a xylophone with tuned wooden bars. I will play C, D, E and D, alternating my right and left mallets. Listen to how each bar rings after the mallet lifts away. If I leave the mallet touching a bar, its vibration is damped. Changing bars changes the pitch, while a gentler stroke mainly changes the volume.",
+      "tip": "Do not leave the mallet resting on the bar after a strike. Use the instrument’s recommended mallets, since unsuitable hard mallets can damage wooden bars."
+    }
   },
   {
     "id": "piano",
@@ -77,7 +401,43 @@
     "family": "Keyboard",
     "origin": "Invented by Bartolomeo Cristofori in Italy around 1700.",
     "description": "Pressing a key makes a hammer strike strings. The keyboard is the playing interface; the sound comes from vibrating strings.",
-    "components": ["Keys", "Hammers", "Strings", "Soundboard", "Pedals"]
+    "components": ["Keys", "Hammers", "Strings", "Soundboard", "Pedals"],
+    "playingGuide": {
+      "setup": "Sit at a height where the forearms are comfortably close to level with the keyboard. Begin with the right hand only and leave the pedals unused. Find C immediately to the left of a group of two black keys; use middle C if a teacher has identified it.",
+      "method": [
+        {
+          "title": "Set a relaxed hand shape",
+          "instruction": "Keep the shoulders loose, wrists comfortably level and fingers naturally curved. Place the right thumb on C, index finger on D and middle finger on E."
+        },
+        {
+          "title": "Press a key with control",
+          "instruction": "Press C and release it without locking the wrist. Inside the piano, the key action makes a hammer strike strings. Compare a soft press with a firmer, controlled press."
+        },
+        {
+          "title": "Move between fingers",
+          "instruction": "Play neighbouring notes with their assigned fingers rather than shifting the whole hand for every key. Keep unused fingers relaxed and close to the keys."
+        },
+        {
+          "title": "Match touch to duration",
+          "instruction": "Count evenly and release a key when its written duration ends. Practise without the sustain pedal first so you can hear whether the notes are clearly controlled."
+        }
+      ],
+      "practice": {
+        "title": "Three notes and a two-count finish",
+        "tempo": "About 60 beats per minute. Count four beats in each bar.",
+        "pattern": "Bar 1:  C   D   E   D\nCount:  1   2   3   4\nBar 2:  Hold C    Rest\nCount:  1 — 2     3 — 4",
+        "legend": "In bar 2, hold one C through counts 1 and 2, then release for counts 3 and 4. Right-hand fingers: C = thumb (1), D = index (2), E = middle (3).",
+        "steps": [
+          "Place right-hand fingers 1, 2 and 3 over C, D and E.",
+          "Play C–D–E–D, one note on each beat.",
+          "In the next bar, hold C for two counts, then release and rest for two counts.",
+          "Repeat the two-bar exercise four times without using the sustain pedal."
+        ],
+        "goal": "An even sequence followed by a controlled two-count note and a clear rest."
+      },
+      "demonstration": "This is a piano. Its keys make hammers strike strings. With my right thumb, index and middle finger, I will play C, D, E and D on four steady counts. In the next bar I will hold C for two counts and rest for two. I am leaving the pedal unused so the note lengths and releases are easy to hear.",
+      "tip": "Use a relaxed wrist and listen to the release as well as the attack. Do not use the sustain pedal to hide uneven timing between fingers."
+    }
   },
   {
     "id": "accordion",
@@ -85,7 +445,43 @@
     "family": "Keyboard",
     "origin": "Early modern designs appeared in 19th-century Europe.",
     "description": "Bellows move air past reeds. Keys or buttons select the notes.",
-    "components": ["Bellows", "Keyboard", "Bass buttons", "Reeds"]
+    "components": ["Bellows", "Keyboard", "Bass buttons", "Reeds"],
+    "playingGuide": {
+      "setup": "This exercise is for a piano accordion, whose right-hand piano keys give the same notes while opening or closing the bellows. Diatonic and other button-accordion layouts can work differently. Have the straps adjusted so the instrument is stable.",
+      "method": [
+        {
+          "title": "Balance the instrument",
+          "instruction": "Sit or stand comfortably with the accordion supported by its straps. Keep the right-hand keyboard within easy reach and avoid hunching the shoulders."
+        },
+        {
+          "title": "Coordinate a key with airflow",
+          "instruction": "Press one right-hand key and move the bellows gently. Air passing through reeds makes the sound. A pressed key without bellows movement normally produces no sustained tone."
+        },
+        {
+          "title": "Control the bellows",
+          "instruction": "Open or close the bellows smoothly, keeping the movement small at first. Plan a gentle direction change at a break in the phrase, rather than making a sudden jerk."
+        },
+        {
+          "title": "Add fingers before bass patterns",
+          "instruction": "Locate C, D and E on the right-hand keyboard and use comfortable fingers. Practise a melody alone first. Add left-hand bass buttons only after learning their layout."
+        }
+      ],
+      "practice": {
+        "title": "One pattern in two bellows directions",
+        "tempo": "About 60 beats per minute, with one right-hand note per beat.",
+        "pattern": "Opening:  C   D   E   D\nCount:    1   2   3   4\nRest:     1   2   3   4\nClosing:  C   D   E   D",
+        "legend": "Use only the right-hand piano keyboard. Change the bellows direction during the rest; on this type of accordion, the written keys still give the same notes.",
+        "steps": [
+          "Play C–D–E–D while opening the bellows slowly.",
+          "Release the keys for a four-count rest and prepare a smooth direction change.",
+          "Repeat C–D–E–D while closing the bellows slowly.",
+          "Repeat the opening/rest/closing sequence twice, keeping the tone even."
+        ],
+        "goal": "A simple melody supported by smooth bellows motion in either direction."
+      },
+      "demonstration": "This is a piano accordion. The bellows move air through reeds, while my right-hand keys select notes. I will play C, D, E and D while opening the bellows, rest for four counts, then repeat while closing them. On this piano accordion, the key names do not change with the bellows direction. I will leave the left-hand bass buttons out of this first exercise.",
+      "tip": "Use small, smooth bellows movements. Do not force the bellows against closed keys; the air-release control is for positioning the bellows as your teacher demonstrates."
+    }
   },
   {
     "id": "organ",
@@ -93,6 +489,42 @@
     "family": "Keyboard",
     "origin": "Ancient Greece; later developed extensively in Europe.",
     "description": "Keys control air flowing through pipes. Stops select groups of pipes with different sounds.",
-    "components": ["Manuals", "Pedalboard", "Pipes", "Stops", "Wind supply"]
+    "components": ["Manuals", "Pedalboard", "Pipes", "Stops", "Wind supply"],
+    "playingGuide": {
+      "setup": "This guide describes a pipe organ. Have the organist or teacher start the wind supply and select one quiet 8-foot stop, such as an appropriate flute stop. Begin on one manual (hand keyboard), with couplers and the pedalboard left out of the exercise.",
+      "method": [
+        {
+          "title": "Set the bench and registration",
+          "instruction": "Sit at a suitable bench position and find a comfortable middle area of the chosen manual. Use the simple stop selection agreed with the organist, since available stops differ between instruments."
+        },
+        {
+          "title": "Hold and release a key",
+          "instruction": "Press a key to admit air to the selected pipes, then release it to stop that airflow. The room may continue to reverberate after the pipe stops sounding."
+        },
+        {
+          "title": "Control note lengths with the fingers",
+          "instruction": "Count the full duration of each note and release deliberately. On a pipe organ, striking a key harder does not make the pipe louder in the way a piano key can."
+        },
+        {
+          "title": "Shape a short phrase",
+          "instruction": "Play slowly on one manual with a steady touch. Learn finger connection and separation before adding another manual or bass notes on the pedalboard."
+        }
+      ],
+      "practice": {
+        "title": "A short phrase on one manual",
+        "tempo": "About 60 beats per minute. Use a quiet 8-foot stop selected with the organist.",
+        "pattern": "Bar 1: C   D   E   D\nCount: 1   2   3   4\nBar 2: Hold C | Rest\nCount: 1 — 2  | 3 — 4",
+        "legend": "Play the named keys in a comfortable middle register on one manual. No pedalboard notes or piano-style sustain pedal are needed for this exercise.",
+        "steps": [
+          "Locate C, D and E on the selected manual.",
+          "Play C–D–E–D, holding each key for one count and releasing it for the next note.",
+          "In the next bar, hold C for two counts, then release and rest for two.",
+          "Repeat twice and listen carefully to the release and the room’s reverberation."
+        ],
+        "goal": "Clear note lengths and deliberate releases, without trying to control volume by hitting keys harder."
+      },
+      "demonstration": "This is a pipe organ. I have selected a quiet 8-foot stop with the organist. I will play C, D, E and D on one manual, then hold C for two counts and rest for two. Pressing a key allows air into the selected pipes; releasing it stops that airflow, although the room may still echo. The pedalboard is another keyboard for notes, not the piano’s sustain pedal.",
+      "tip": "Use finger control for note lengths. Volume and tone depend on registration and, where fitted, expression controls—not simply on how hard you strike a key."
+    }
   }
 ]

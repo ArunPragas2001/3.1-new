@@ -117,7 +117,7 @@ export default function ProfileScreen({ navigation }) {
         </Text>
         <View style={s.divider} />
         <Text style={[s.muted, { fontSize: 11 }]}>
-          MELODIA 1.1 · 12 INSTRUMENTS · 4 FAMILIES
+          MELODIA 1.2 · 12 INSTRUMENTS · 4 FAMILIES
         </Text>
         <Text style={[s.muted, { fontSize: 12 }]}>
           Your favourites and latest 50 saved quiz scores stay on this device.
