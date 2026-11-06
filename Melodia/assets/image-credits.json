@@ -1,0 +1,98 @@
+[
+  {
+    "id": "guitar",
+    "source": "https://commons.wikimedia.org/wiki/File:Classical_Guitar_two_views2.png",
+    "artist": "User:Martin Möller",
+    "license": "CC BY-SA 2.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "violin",
+    "source": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+    "artist": "Just plain Bill",
+    "license": "CC0",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "cello",
+    "source": "https://commons.wikimedia.org/wiki/File:Cello_front_side.png",
+    "artist": "Georg Feitscher",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "flute",
+    "source": "https://commons.wikimedia.org/wiki/File:Fl%C3%BBte_traversi%C3%A8re.png",
+    "artist": "Tubamirum",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "trumpet",
+    "source": "https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg",
+    "artist": "Yamaha Corporation",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "saxophone",
+    "source": "https://commons.wikimedia.org/wiki/File:Eight_saxophone_sizes_smaller.png",
+    "artist": "Jonathanischoice",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "drums",
+    "source": "https://commons.wikimedia.org/wiki/File:A_drum_kit_made_by_Mapex_Drums_-_Cacon_Photos-_Copyleft_-_Creative_Commons_03.jpg",
+    "artist": "Mostafameraji",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "tabla",
+    "source": "https://commons.wikimedia.org/wiki/File:Instrument_perkusyjny_TABLA_firmy_Meinl.jpg",
+    "artist": "http://muzyczny.pl",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "xylophone",
+    "source": "https://commons.wikimedia.org/wiki/File:Xylophone_rn.jpg",
+    "artist": "Rruunnaa",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "piano",
+    "source": "https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG",
+    "artist": "Gryffindor",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "accordion",
+    "source": "https://commons.wikimedia.org/wiki/File:A_converter_free-bass_piano-accordion_and_a_Russian_bayan.jpg",
+    "artist": "Necz0r",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  },
+  {
+    "id": "organ",
+    "source": "https://commons.wikimedia.org/wiki/File:Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg",
+    "artist": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Thumbnail supplied by Wikimedia; displayed at a different size."
+  }
+]

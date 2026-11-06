@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "question": "Which instrument is commonly played with a bow?",
+    "options": ["Violin", "Trumpet", "Tabla", "Flute"],
+    "answer": 0,
+    "explanation": "The bow makes the violin strings vibrate."
+  },
+  {
+    "id": "2",
+    "question": "Which family contains tabla?",
+    "options": ["Strings", "Wind", "Percussion", "Keyboard"],
+    "answer": 2,
+    "explanation": "Tabla are hand drums, so they are percussion instruments."
+  },
+  {
+    "id": "3",
+    "question": "What strikes the strings inside a piano?",
+    "options": ["Air", "Hammers", "A bow", "Fingers"],
+    "answer": 1,
+    "explanation": "Pressing a key moves a hammer inside the piano."
+  },
+  {
+    "id": "4",
+    "question": "Which instrument uses a single reed?",
+    "options": ["Flute", "Guitar", "Cello", "Saxophone"],
+    "answer": 3,
+    "explanation": "The saxophone mouthpiece holds a single reed."
+  },
+  {
+    "id": "5",
+    "question": "Which guitar part helps a player select pitches?",
+    "options": ["Bell", "Frets", "Bellows", "Cymbals"],
+    "answer": 1,
+    "explanation": "Frets help change the vibrating length of a string."
+  },
+  {
+    "id": "6",
+    "question": "Which instrument uses bellows?",
+    "options": ["Accordion", "Violin", "Trumpet", "Drum Kit"],
+    "answer": 0,
+    "explanation": "Bellows push air through the accordion reeds."
+  },
+  {
+    "id": "7",
+    "question": "How does a trumpet player start the sound?",
+    "options": ["Strike a bar", "Bow strings", "Buzz their lips", "Shake it"],
+    "answer": 2,
+    "explanation": "Vibrating lips set the air column vibrating."
+  },
+  {
+    "id": "8",
+    "question": "What are xylophone bars usually made of?",
+    "options": ["Glass", "Paper", "Plastic", "Wood"],
+    "answer": 3,
+    "explanation": "A xylophone has tuned wooden bars."
+  }
+]

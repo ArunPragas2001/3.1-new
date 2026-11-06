@@ -1,0 +1,98 @@
+[
+  {
+    "id": "guitar",
+    "name": "Guitar",
+    "family": "Strings",
+    "origin": "Spain; the modern classical design developed in the 19th century.",
+    "description": "Players pluck or strum the strings. Pressing a string at a fret changes its vibrating length and pitch.",
+    "components": ["Strings", "Body", "Neck", "Frets", "Tuning pegs"]
+  },
+  {
+    "id": "violin",
+    "name": "Violin",
+    "family": "Strings",
+    "origin": "Northern Italy, early 16th century.",
+    "description": "The violin has four strings. A bow makes them vibrate, and its wooden body helps the sound resonate.",
+    "components": ["Strings", "Bow", "Bridge", "Fingerboard", "Body"]
+  },
+  {
+    "id": "cello",
+    "name": "Cello",
+    "family": "Strings",
+    "origin": "Italy, 16th century.",
+    "description": "The cello is a large bowed string instrument. A seated player supports it on an endpin.",
+    "components": ["Strings", "Bow", "Bridge", "Endpin", "Body"]
+  },
+  {
+    "id": "flute",
+    "name": "Flute",
+    "family": "Wind",
+    "origin": "Ancient flutes occur in many cultures; the modern concert flute developed in Europe.",
+    "description": "Air blown across an opening creates sound. Keys change the effective length of the air column.",
+    "components": ["Headjoint", "Mouth hole", "Keys", "Body", "Footjoint"]
+  },
+  {
+    "id": "trumpet",
+    "name": "Trumpet",
+    "family": "Wind",
+    "origin": "Ancient ceremonial horns; modern valved designs developed in 19th-century Europe.",
+    "description": "Vibrating lips produce sound. Valves change the length of tubing to help select notes.",
+    "components": ["Mouthpiece", "Valves", "Tubing", "Bell"]
+  },
+  {
+    "id": "saxophone",
+    "name": "Saxophone",
+    "family": "Wind",
+    "origin": "Developed by Adolphe Sax in the 1840s.",
+    "description": "A single reed vibrates when air passes through the mouthpiece. It is a woodwind instrument despite its metal body.",
+    "components": ["Reed", "Mouthpiece", "Neck", "Keys", "Bell"]
+  },
+  {
+    "id": "drums",
+    "name": "Drum Kit",
+    "family": "Percussion",
+    "origin": "United States, late 19th and early 20th centuries.",
+    "description": "A drum kit combines drums and cymbals. Sticks and pedals let one musician create layered rhythms.",
+    "components": ["Bass drum", "Snare drum", "Toms", "Hi-hat", "Cymbals"]
+  },
+  {
+    "id": "tabla",
+    "name": "Tabla",
+    "family": "Percussion",
+    "origin": "Indian subcontinent; its precise historical development is debated.",
+    "description": "Tabla are two hand drums. Players use fingers and palms to produce many tones.",
+    "components": ["Dayan", "Bayan", "Drumheads", "Tuning straps"]
+  },
+  {
+    "id": "xylophone",
+    "name": "Xylophone",
+    "family": "Percussion",
+    "origin": "Historical forms developed in parts of Africa and Asia.",
+    "description": "Mallets strike tuned wooden bars. Shorter bars generally produce higher notes.",
+    "components": ["Wooden bars", "Mallets", "Frame", "Resonators"]
+  },
+  {
+    "id": "piano",
+    "name": "Piano",
+    "family": "Keyboard",
+    "origin": "Invented by Bartolomeo Cristofori in Italy around 1700.",
+    "description": "Pressing a key makes a hammer strike strings. The keyboard is the playing interface; the sound comes from vibrating strings.",
+    "components": ["Keys", "Hammers", "Strings", "Soundboard", "Pedals"]
+  },
+  {
+    "id": "accordion",
+    "name": "Accordion",
+    "family": "Keyboard",
+    "origin": "Early modern designs appeared in 19th-century Europe.",
+    "description": "Bellows move air past reeds. Keys or buttons select the notes.",
+    "components": ["Bellows", "Keyboard", "Bass buttons", "Reeds"]
+  },
+  {
+    "id": "organ",
+    "name": "Pipe Organ",
+    "family": "Keyboard",
+    "origin": "Ancient Greece; later developed extensively in Europe.",
+    "description": "Keys control air flowing through pipes. Stops select groups of pipes with different sounds.",
+    "components": ["Manuals", "Pedalboard", "Pipes", "Stops", "Wind supply"]
+  }
+]
