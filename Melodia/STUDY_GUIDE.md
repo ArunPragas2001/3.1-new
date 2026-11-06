@@ -23,3 +23,17 @@ Read instruments.json, InstrumentCard, ExploreScreen, SearchScreen, DetailsScree
 - Persisted favourites and saved scores survive app restarts; search text and unfinished quiz progress do not.
 
 Practise adding one instrument and its image require, adding a quiz question, changing the theme colour, and explaining the complete search-to-details flow. These are useful demonstrations for your lecturer.
+
+## Understanding the modern interface (version 1.1)
+
+- UI.js provides small reusable components: Button, Heading, Section, FamilyBadge, FamilyChips, EmptyState and Stat. They receive props just like InstrumentCard.
+- useGrid uses React Native's useWindowDimensions to calculate card widths. Phones use two instrument columns and larger windows use three. The four family cards fit into four columns on wider screens.
+- families.js holds local interface colours, icons and descriptions. instruments.json is still the instrument dataset.
+- Pressable's style callback uses its pressed value to give touch feedback without an animation library.
+- InstrumentCard uses the existing library context for its heart button. Adding or removing an ID updates all screens after storage succeeds.
+- Quiz choices use conditional styles to show the correct answer in green and an incorrect selection in red. The score calculation is unchanged.
+- Page uses a ScrollView ref and an effect to return to the top when the quiz question or result changes. This makes the next question visible after scrolling to the Next button.
+- Image credits can be expanded on Profile. This uses ordinary boolean state and conditional rendering.
+- The storage key and data shape did not change, so existing favourites and saved quiz scores continue to load.
+
+Practise changing a family colour, adding a reusable Stat, and explaining how changing the window width changes the grid without modifying the dataset.

@@ -11,3 +11,13 @@
 
 Commands: npx expo install --check; npx expo export --platform web; npx expo export --platform android.
 Exports validate JavaScript and assets, not an installed APK. Native device testing is required before submission.
+
+## Version 1.1 interface checks
+
+- Test the heart on an instrument card, including the Favourites screen. A successful removal immediately updates the collection.
+- Open Categories from Home. Select each family and confirm three instruments.
+- Check the Home layout at 320, 390, 768 and 1280 pixels wide and verify the instrument grid adapts when resizing.
+- Select a wrong quiz answer: it appears red and the correct answer appears green. The selected answer cannot be changed.
+- Scroll to Next on a small screen. The next question and final result should start at the top.
+- Expand and collapse image credits on Profile.
+- Update an existing installation without clearing its data; previous favourites and saved quiz results should still appear.

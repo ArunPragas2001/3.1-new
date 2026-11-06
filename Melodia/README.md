@@ -1,5 +1,9 @@
 # Melodia
 
+Version 1.1 brings a modern dark interface, a purple instrument spotlight, family cards, responsive instrument grids, card-level favourite buttons and quiz progress/answer feedback. It uses the existing local dataset and storage format.
+
+<img src="previews/home.png" width="230" alt="Melodia home screen" /> <img src="previews/explore.png" width="230" alt="Instrument explorer" /> <img src="previews/quiz.png" width="230" alt="Music quiz" />
+
 Offline React Native / Expo SDK 54 learning project. Eight screens: Home, Explore, Categories, Search, Details, Favourites, Quiz, Profile.
 
 ## Run
