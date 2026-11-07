@@ -2,29 +2,21 @@
 
 Version 1.2 adds step-by-step playing methods, original practice patterns and read-aloud demonstration scripts for all 12 instruments. Open an instrument and scroll to **How to play**, **Beginner practice** and **Example demonstration script**. These are text guides to try on a real instrument; no audio playback was added.
 
-The modern interface includes a dark theme, a purple instrument spotlight, family cards, responsive instrument grids, card-level favourite buttons and quiz progress/answer feedback. It uses the existing local dataset and storage format.
+The modern interface includes a modern dark interface, a purple instrument spotlight, family cards, responsive instrument grids, card-level favourite buttons and quiz progress/answer feedback. It uses the existing local dataset and storage format.
 
 <img src="previews/home.png" width="230" alt="Melodia home screen" /> <img src="previews/explore.png" width="230" alt="Instrument explorer" /> <img src="previews/quiz.png" width="230" alt="Music quiz" />
 
 Offline React Native / Expo SDK 54 learning project. Eight screens: Home, Explore, Categories, Search, Details, Favourites, Quiz, Profile.
 
 ## Run
+Install a supported Node.js LTS version (Node 22 recommended). In this folder run:
 
-For a fresh Git working copy:
+    npm ci
+    npx expo start
 
-```sh
-git clone --branch melodia-app https://github.com/ArunPragas2001/3.1-new.git
-cd 3.1-new/Melodia
-npm ci
-npm run check
-npm run web
-```
+Use an Android emulator, iOS simulator on macOS or Expo Go compatible with SDK 54. If the current store client uses a different SDK, use a matching development build or follow Expo's SDK upgrade instructions. Browser preview: npm run web.
 
-If you already have a clone, use the existing `Melodia` folder instead of cloning again. Use Node.js 22 LTS. For the Expo QR-code session run `npm start`; the phone client must support **Expo SDK 54**.
-
-[SETUP.md](SETUP.md) explains the repository/app folder difference, ZIP extraction, Windows terminal setup, phone/emulator options, troubleshooting and the daily Git workflow. Git commands use the repository root (`3.1-new`); npm commands use the app folder (`Melodia`).
-
-Downloading the project and installing dependencies need internet. The images and JSON are already bundled. A development preview needs its Metro server; an installed standalone native build is required for an airplane-mode cold-launch demonstration. The source ZIP is not an APK.
+The first dependency installation and image setup need internet. The application uses only bundled JSON/images and AsyncStorage. A Metro preview needs its development server. A standalone native build is required for an airplane-mode cold-launch demonstration. This source ZIP is not an APK.
 
 ## Understand the files
 src/data holds 12 curated instrument records and eight questions. The answer field is the zero-based option index. src/components contains reusable UI. src/screens contains eight screens. src/storage loads and saves the shared library. src/navigation defines tabs and stack navigation. src/theme holds styles and colours.

@@ -1,16 +1,4 @@
-# Installed packages and local Expo state
 node_modules/
 .expo/
-
-# Generated exports and logs
 dist/
 *.log
-
-# Computer-specific files
-.DS_Store
-Thumbs.db
-
-# Local environment values; a placeholder-only example can be shared
-.env
-.env.*
-!.env.example

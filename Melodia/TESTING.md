@@ -30,9 +30,3 @@ Exports validate JavaScript and assets, not an installed APK. Native device test
 - Try selecting/copying the pattern or demonstration text.
 - Save and remove a favourite while viewing a long guide. Confirm the control remains reachable and the result persists after relaunch.
 - Follow the stated instrument setup when trying a practice exercise; e.g. the accordion exercise assumes a piano accordion, and saxophone/trumpet note names are written notes.
-
-## Setup verification
-
-Use SETUP.md for the exact terminal location and startup commands. Record your own computer, Node version, phone/client version and actual results when you test locally. Run npm run check from the app folder before committing changes. This command validates data rather than the full interface.
-
-Confirm that a new contributor can identify the repository root, enter the app folder, install dependencies from the lockfile and open the browser preview. Test the matching SDK 54 phone/development build separately; a browser result does not establish native or offline cold-launch behavior.
