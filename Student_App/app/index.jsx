@@ -41,6 +41,7 @@ export default function App() {
   };
 
   return (
+    
     <ScrollView
       style={styles.scrollView}
       contentContainerStyle={styles.container}
